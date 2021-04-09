@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm chenjianguang 👋
 - 🔭 I’m currently working on bytedance.
-- 🌱 I’m currently learning react source code.
+- 🌱 I’m currently reading react source code and building my ui-library [sun-react-ui](https://github.com/jgchenu/sun-react-ui).
 
 **Languages and Tools:**  
 
