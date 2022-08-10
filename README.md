@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm chenjianguang 👋
-- 🔭 I’m currently working on bytedance.
-- 🌱 I’m currently reading react source code and building my ui-library [sun-react-ui](https://github.com/jgchenu/sun-react-ui).
-
+- 🔭 I’m currently learning english.
+- 🌱 I’m currently reading tinymce source code.
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
