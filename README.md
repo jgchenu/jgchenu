@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm chenjianguang 👋
-- 🔭 I’m currently learning english.
+- 🔭 I’m currently learning English.
 - 🌱 I’m currently reading tinymce source code.
 
 **Languages and Tools:**  
