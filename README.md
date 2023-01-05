@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm chenjianguang 👋
-- 🔭 I’m currently learning English.
-- 🌱 I’m currently reading tinymce source code.
+- 🔭 I’m currently learning webpack@5 source code.
+- 🌱 I’m currently reading react source code and build own react.
 
 **Languages and Tools:**  
 
