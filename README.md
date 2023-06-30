@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm chenjianguang 👋
-- 🔭 I’m currently learning webpack@5 source code.
-- 🌱 I’m currently reading react source code and build own react.
+- 🔭 I’m currently learning flutter and write an app.
+- 🌱 I’m currently reading react nest and learning more about BE.
 
 **Languages and Tools:**  
 
