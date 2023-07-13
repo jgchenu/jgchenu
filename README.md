@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm chenjianguang 👋
 - 🔭 I’m currently learning flutter and write an app.
-- 🌱 I’m currently reading react nest and learning more about BE.
+- 🌱 I’m currently reading nest and learning more about BE.
 
 **Languages and Tools:**  
 
