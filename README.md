@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm chenjianguang 👋
-- 🔭 I’m currently learning flutter and write an app.
-- 🌱 I’m currently reading nest and learning more about BE.
+- 🔭 BoomAI co-founder: https://boomai.net
+- 🌱 Independent developers
 
 **Languages and Tools:**  
 
